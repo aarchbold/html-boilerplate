@@ -3,7 +3,7 @@ My starting off point for building small static marketing sites
 
 ## How to install
 
-1. Fork this repo
+1. Fork or download this repo
 2. Change the repository property in the package.json file to point to your repo.
 3. navigate to project directory with terminal
 4. run "npm install" to install gulp dependencies
